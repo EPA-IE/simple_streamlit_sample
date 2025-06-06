@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "locale": "English_Ireland.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.9",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.1.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "c716c4f41c20ae3e1d685ec61347c6a3"
+    },
+    "README.md": {
+      "checksum": "d7f1eeccb59826b5427db53667201300"
+    },
+    "app.py": {
+      "checksum": "8f673a8c96e70d54cd738a466df33dae"
+    }
+  }
+}
